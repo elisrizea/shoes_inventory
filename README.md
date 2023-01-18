@@ -1,13 +1,13 @@
 
-# Manage items invetory
+# Manage items inventory
     Very simple Python class demonstration and function
-    Display items in console using tabels and colors
+    Display items in console using tables and colors
 
 # Description
     Read and display all items from inventory.txt
     Add a new item to inventory.txt
     Delete an item using SKU
-    View Lowst and Highest item
+    View Lowest and Highest item
     Search item using SKU 
 
 
@@ -17,8 +17,8 @@
 # Tabulate Installation
  
     pip install tabulate
-    https://pypi.org/project/tabulate/     # Instalation instruction
+    https://pypi.org/project/tabulate/     # Installation instruction
     
-# Runinng:
+# Running:
     inventory.py
 
